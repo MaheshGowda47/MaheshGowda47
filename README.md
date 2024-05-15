@@ -3,7 +3,8 @@
 <h1 align="center"><b>Hi 👋, I'm Mahesh 😀</b></h1>
 
 
-## 🌟 About Me
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&width=700&lines=🌟+About+Me)](https://git.io/typing-svg)
 <p align="center">I'm a dedicated AI/ML engineer with a talent for transforming data into captivating narratives. My expertise encompasses a variety of fields, including:</p>
 
 <p align="center">
@@ -19,7 +20,8 @@
 
 
 
-## 💻 Tech Stack
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&width=700&lines=💻+Tech+Stack)](https://git.io/typing-svg)
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd90" alt="Python" />
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
@@ -40,7 +42,8 @@
 
 
 
-## 🌐 Connect with Me
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&width=700&lines=🌐+Connect+with+Me)](https://git.io/typing-svg)
 <p align="center">
   <a href="https://www.linkedin.com/in/maheshgowda47/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
@@ -55,7 +58,7 @@
 
 
 
-## 📖 GitHub Stats
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&width=700&lines=📖+GitHub+Stats)](https://git.io/typing-svg)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maheshgowda47&show_icons=true&theme=radical" alt="Mahesh's GitHub stats" width="400" height="210" style="object-fit: cover;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshgowda47&theme=radical" alt="Mahesh's GitHub streak" width="400" height="210" style="object-fit: cover;" />
