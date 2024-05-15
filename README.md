@@ -55,6 +55,9 @@
   <a href="https://github.com/MaheshGowda47?tab=repositories" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="GitHub" width="100"/>
   </a>
+  <a href="https://drive.google.com/file/d/1CbNVuTRanShwYGzgNtM8zuWRMTX-yYFp/view?usp=sharing" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/6186/6186195.png" alt="GitHub" width="100"/>
+  </a>
 </p>
 
 
@@ -67,13 +70,8 @@
 </p>
 
 
-<div class="resume-section">
-  <a href="https://drive.google.com/file/d/1CbNVuTRanShwYGzgNtM8zuWRMTX-yYFp/view?usp=sharing" target="_blank" class="resume-link"></a>
-  <h3><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdCJxtJEb8fQB_rpSr0K9zfU7D5Cva_Z6PpxLeJb_ZnA&s" alt="Resume" width="40"/> Download Resume</h3>
-</div>
 
 
-=
 
 
 
