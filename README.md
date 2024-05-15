@@ -52,6 +52,9 @@
   <a href="https://www.instagram.com/_mahesh.gowda_/" target="_blank">
     <img src="https://media.tenor.com/QsaxvK8W_AoAAAAj/araslot-instagram.gif" alt="Instagram" width="100"/>
   </a>
+  <a href="https://github.com/MaheshGowda47?tab=repositories" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="GitHub" width="100"/>
+  </a>
 </p>
 
 
@@ -62,6 +65,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshgowda47&theme=radical" alt="Mahesh's GitHub streak" width="400" height="210" style="object-fit: cover;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshgowda47&layout=compact&theme=radical" alt="Top Languages" width="400" height="210" style="object-fit: cover;" />
 </p>
+
 
 
 
