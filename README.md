@@ -44,13 +44,13 @@
 <h1><img src="https://media.tenor.com/W22SOhZQGUQAAAAj/chempo-chempo009.gif" width="35"/> Connect with Me</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/maheshgowda47/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+    <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" alt="LinkedIn" width="100"/>
   </a>
   <a href="https://twitter.com/aetherix" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" />
+    <img src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" alt="Twitter" width="100"/>
   </a>
   <a href="https://www.instagram.com/_mahesh.gowda_/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" />
+    <img src="https://media.tenor.com/QsaxvK8W_AoAAAAj/araslot-instagram.gif" alt="Instagram" width="100"/>
   </a>
 </p>
 
