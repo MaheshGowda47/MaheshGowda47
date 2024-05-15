@@ -67,8 +67,13 @@
 </p>
 
 
+<div class="resume-section">
+  <a href="https://drive.google.com/file/d/1CbNVuTRanShwYGzgNtM8zuWRMTX-yYFp/view?usp=sharing" target="_blank" class="resume-link"></a>
+  <h3><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdCJxtJEb8fQB_rpSr0K9zfU7D5Cva_Z6PpxLeJb_ZnA&s" alt="Resume" width="40"/> Download Resume</h3>
+</div>
 
 
+=
 
 
 
