@@ -58,10 +58,11 @@
 ## 📖 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheshgowda47&show_icons=true&theme=radical" alt="Mahesh's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshgowda47&theme=radical" alt="Mahesh's GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshgowda47&layout=compact&theme=radical" alt="Top Languages" />
-</p> 
+  <img src="https://github-readme-stats.vercel.app/api?username=maheshgowda47&show_icons=true&theme=radical" alt="Mahesh's GitHub stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshgowda47&theme=radical" alt="Mahesh's GitHub streak" width="400" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshgowda47&layout=compact&theme=radical" alt="Top Languages" width="400" />
+</p>
+
 
 
 
