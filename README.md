@@ -46,7 +46,7 @@
   <a href="https://www.linkedin.com/in/maheshgowda47/" target="_blank">
     <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" alt="LinkedIn" width="100"/>
   </a>
-  <a href="https://twitter.com/aetherix" target="_blank">
+  <a href="https://twitter.com" target="_blank">
     <img src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" alt="Twitter" width="100"/>
   </a>
   <a href="https://www.instagram.com/_mahesh.gowda_/" target="_blank">
