@@ -69,7 +69,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshgowda47&layout=compact&theme=radical" alt="Top Languages" width="400" height="210" style="object-fit: cover;" />
 </p>
 
-
+<p align="left">
+  <a href=" " target="_blank">
+    <img src="https://ouch-cdn2.icons8.com/6NNKdWOngabxcVac28sJIRxKSRjoyv6L7TegHvhAAno/rs:fit:368:491/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvMTcy/LzZiZGM5ZjQyLTY4/ZDktNDlhMS1iMGVl/LTUxNjA5MjUyYTU3/Yi5wbmc.png" alt="ChatBot" width="100"/>
+  </a> 
+  <h3>Chat with Me</h3>
+</p>
 
 
 
