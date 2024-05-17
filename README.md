@@ -75,11 +75,11 @@
 
 <p align="left">
   <a href=" " target="_blank">
-    <img src="https://ouch-cdn2.icons8.com/6NNKdWOngabxcVac28sJIRxKSRjoyv6L7TegHvhAAno/rs:fit:368:491/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvMTcy/LzZiZGM5ZjQyLTY4/ZDktNDlhMS1iMGVl/LTUxNjA5MjUyYTU3/Yi5wbmc.png" alt="ChatBot" width="120"/>
+    <img src="https://ouch-cdn2.icons8.com/6NNKdWOngabxcVac28sJIRxKSRjoyv6L7TegHvhAAno/rs:fit:368:491/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvMTcy/LzZiZGM5ZjQyLTY4/ZDktNDlhMS1iMGVl/LTUxNjA5MjUyYTU3/Yi5wbmc.png" alt="ChatBot" width="120"/><h2> Chat with Me ✨</h2>
   </a> 
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&width=700&lines=Chat+with+Me+😀)](https://git.io/typing-svg)
+
 
 
 
