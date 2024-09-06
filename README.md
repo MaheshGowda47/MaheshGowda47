@@ -55,8 +55,8 @@
   <a href="https://github.com/MaheshGowda47?tab=repositories" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="GitHub" width="100"/>
   </a>
-  <a href="https://drive.google.com/file/d/1MZBUhvm6Yy4wm7MwLez6iiE634MAf48t/view?usp=drive_link" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/6186/6186195.png" alt="GitHub" width="100"/>
+  <a href="https://drive.google.com/file/d/1Y8zTNHDG-r2qbDWv6rdNRe-eiOhNYJJ1/view?usp=sharing" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/6186/6186195.png" alt="Resume" width="100"/>
   </a>
 </p>
 
