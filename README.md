@@ -62,12 +62,7 @@
 
 
 
-<h1><img src="https://media.tenor.com/N0ZZRLN0v4gAAAAj/doc-rae-geometry-dash.gif" width="30"/> GitHub Stats</h1>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheshgowda47&show_icons=true&theme=radical" alt="Mahesh's GitHub stats" width="400" height="210" style="object-fit: cover;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshgowda47&theme=radical" alt="Mahesh's GitHub streak" width="400" height="210" style="object-fit: cover;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshgowda47&layout=compact&theme=radical" alt="Top Languages" width="400" height="210" style="object-fit: cover;" />
-</p>
+
 
 <br>
 
